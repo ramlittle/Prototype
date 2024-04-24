@@ -1,0 +1,9 @@
+  /* ADDED */
+  #products-table{
+    background-color: white;
+    padding:1rem;
+  }
+  #products-table img {
+    width:5rem;
+    height:5rem;
+  }
